@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='ML techniques implementation to predict the bunch of bananas at Uraba region',
+    description='ML techniques implementation to predict the weight of the bunch of bananas at Uraba region',
     author='Bernardo Augusto García Loaiza',
     license='',
 )

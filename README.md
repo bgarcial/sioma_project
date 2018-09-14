@@ -1,7 +1,7 @@
 sioma_project
 ==============================
 
-ML techniques implementation to predict the bunch of bananas at Uraba region
+ML techniques implementation to predict the weight of the bunch of bananas at Uraba region
 
 Project Organization
 ------------
