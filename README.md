@@ -1,7 +1,8 @@
 sioma_project
 ==============================
 
-ML techniques implementation to predict the weight of the bunch of bananas at Uraba region
+Banana crops data preparation in order to feed ML models to predict their bunch weight at Urabá region.
+
 
 Project Organization
 ------------
